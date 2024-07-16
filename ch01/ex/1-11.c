@@ -1,0 +1,1 @@
+// some compound words in english aren't made as one word lin ein german, so it could count it as two words instead of one. this also includes all ascii chars that aren't system-calls like breaks and tabs, which means numbers and symbols also count as "words" in this program
